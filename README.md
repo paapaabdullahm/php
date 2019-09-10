@@ -55,4 +55,4 @@ $ php -a
 ```
 &nbsp;
 
-Checkout PHP CLI's [**official documentation**](https://www.php.net/manual/en/features.commandline.php) for more details.
+Checkout PHP CLI's <a href="https://www.php.net/manual/en/features.commandline.php" target="_blank">**official documentation**</a> for more details.
