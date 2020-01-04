@@ -4,7 +4,7 @@ PHP is the command-line interface for PHP. The main focus of CLI Server API is f
 
 ## Current Tag:
 
-- PHP (CLI): **`7.3.9`**
+- PHP (CLI): **`7.4.1`**
 
 ## Add shortcut function via .bashrc or .zshrc
 
