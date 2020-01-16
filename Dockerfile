@@ -11,5 +11,4 @@ COPY docker-entrypoint.sh /docker-entrypoint.sh
 WORKDIR /src
 VOLUME /src
 
-ENTRYPOINT ["/bin/bash", "/docker-entrypoint.sh"]
-CMD ["php"]
+ENTRYPOINT ["php"]
